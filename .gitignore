@@ -1,0 +1,12 @@
+# Dependency directories
+node_modules/
+target/
+
+# IDE files
+.idea/
+.vscode/
+
+# Build output
+dist/
+src-tauri/target/
+src-tauri/tauri.conf.json
