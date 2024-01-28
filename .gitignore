@@ -10,3 +10,5 @@ target/
 dist/
 src-tauri/target/
 src-tauri/tauri.conf.json
+
+.DS_Store
